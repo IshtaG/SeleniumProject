@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-17T16:32:45 EDT" name="Suite" finished-at="2023-03-17T16:33:18 EDT" duration-ms="33312">
+    <groups>
+    </groups>
+    <test started-at="2023-03-17T16:32:45 EDT" name="Test-0" finished-at="2023-03-17T16:32:53 EDT" duration-ms="8691">
+      <class name="rahulshettyacademy.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:rahulshettyacademy.TestDemo@5c84624f]" started-at="2023-03-17T16:32:45 EDT" name="titleCheck" finished-at="2023-03-17T16:32:53 EDT" duration-ms="8539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- rahulshettyacademy.TestDemo -->
+    </test> <!-- Test-0 -->
+    <test started-at="2023-03-17T16:32:45 EDT" name="Test-2" finished-at="2023-03-17T16:32:54 EDT" duration-ms="8788">
+      <class name="rahulshettyacademy.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:rahulshettyacademy.TestDemo@4fbb001b]" started-at="2023-03-17T16:32:45 EDT" name="titleCheck" finished-at="2023-03-17T16:32:53 EDT" duration-ms="8665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- rahulshettyacademy.TestDemo -->
+    </test> <!-- Test-2 -->
+    <test started-at="2023-03-17T16:32:45 EDT" name="Test-1" finished-at="2023-03-17T16:33:18 EDT" duration-ms="33312">
+      <class name="rahulshettyacademy.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:rahulshettyacademy.TestDemo@68ace111]" started-at="2023-03-17T16:32:45 EDT" name="titleCheck" finished-at="2023-03-17T16:33:18 EDT" duration-ms="33170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- rahulshettyacademy.TestDemo -->
+    </test> <!-- Test-1 -->
+  </suite> <!-- Suite -->
+</testng-results>

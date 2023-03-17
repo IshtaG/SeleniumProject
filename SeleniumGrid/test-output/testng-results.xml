@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T12:43:35 EDT" name="Suite" finished-at="2023-03-15T12:43:41 EDT" duration-ms="6043">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T12:43:35 EDT" name="Test" finished-at="2023-03-15T12:43:41 EDT" duration-ms="6043">
+      <class name="GoogleTest">
+        <test-method signature="HomePageCheck()[pri:0, instance:GoogleTest@3d74bf60]" started-at="2023-03-15T12:43:35 EDT" name="HomePageCheck" finished-at="2023-03-15T12:43:39 EDT" duration-ms="4178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageCheck -->
+      </class> <!-- GoogleTest -->
+      <class name="RSATEST">
+        <test-method signature="HomePageCheck()[pri:0, instance:RSATEST@1817d444]" started-at="2023-03-15T12:43:35 EDT" name="HomePageCheck" finished-at="2023-03-15T12:43:41 EDT" duration-ms="6007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageCheck -->
+      </class> <!-- RSATEST -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
