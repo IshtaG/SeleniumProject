@@ -16,7 +16,7 @@ public class JDBCConnection {
 		
 		ResultSet rs = s.executeQuery("select * from employeeinfo where id =1");
 		rs.next();
-		
+		System.out.println("hello");
 		System.out.println(rs.getString("name"));
 		System.out.println(rs.getString("age"));
 		System.out.println(rs.getString("location"));

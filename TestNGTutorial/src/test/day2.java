@@ -34,7 +34,7 @@ System.out.println("hi");
 @Test(dataProvider = "getData")
 public void secondTest1(String usrname,String password)
 {
-	System.out.println("bye");
+	System.out.println("byeee");
 	System.out.println(usrname);
 	System.out.println(password);
 

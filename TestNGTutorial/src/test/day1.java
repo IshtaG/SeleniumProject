@@ -27,6 +27,8 @@ public void beforeClass()
 public void afterClass()
 {
 	System.out.println("I will execute after all the methods in this class");
+	System.out.println("I will execute after all the methods in this class");
+
 }
 
 
